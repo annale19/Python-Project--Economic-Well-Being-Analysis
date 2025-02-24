@@ -1,0 +1,9 @@
+Data files used in the project:
+1. Population by Age and Sex - US, States, Counties.csv
+https://drive.google.com/file/d/1uOw2Ap2P2aHSHB2k7w-wU72-4peRpRg-/view?usp=sharing
+
+2. BEA - US, States, Counties - Per Capita Income.csv
+https://drive.google.com/file/d/1tDvyod49u-6nBrnVXMrvGHox91uC7eOI/view?usp=sharing
+
+3. Life Expectancy Estimates by Year, Gender, and Income Percentile dataset
+https://drive.google.com/file/d/1haQTxOJFytIUTVBpmblKBQ2QNqzRS5r8/view?usp=sharing
